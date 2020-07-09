@@ -1,4 +1,5 @@
 # Referee-document-crawler.exe
+
 文件位置：可执行的.exe文件位于Scripts/dist中，名字为定制selenium爬虫.exe
 
 使用方法：需要将dist这个文件夹下载下来，因为其中的png文件不能缺少，这是一个图片，缺少就会报错
@@ -9,5 +10,6 @@
 而无头这个选择按钮决定程序是否在后台运行即界面上看不见，默认为勾选即后台运行，如果想可视化则需要不勾选即去掉当前✔状态
 
 
-环境设置：可能需要firefox和相应的驱动，相应说明在
+环境设置：可能需要firefox和相应的驱动，相应说明在Scripts/dist中
+
 下载文件位置：会自动创建目录：E:\Firefox\Download即位于E盘的firefox文件夹中的Download文件夹
